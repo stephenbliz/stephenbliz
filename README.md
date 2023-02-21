@@ -8,7 +8,7 @@ I am a web developer and i'm passionate about coding
 
 * 🌍  I'm based in Benin
 * ✉️  You can contact me at [uzomaebuka11@gmail.com](mailto:uzomaebuka11@gmail.com)
-* 🧠  I'm learning tailwind and PHP
+* 🧠  I'm learning tailwind and Reactjs
 * 🤝  I'm open to collaborating on Open source project
 
 ### Skills
