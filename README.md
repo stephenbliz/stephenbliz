@@ -1,14 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uzoma Stephen Ebuka
-===========================================================================================================================================
+About Me 👋
+Hi there! I'm a passionate Frontend Developer with a knack for creating modern, user-friendly, and responsive web applications. I specialize in:
 
-Web developer
--------------
+React for building dynamic and interactive user interfaces.
+Next.js for crafting high-performance, server-rendered applications.
+Tailwind CSS to design sleek, responsive layouts efficiently.
+TypeScript for writing robust, maintainable, and error-free code.
+Hygraph to manage and deliver headless CMS content seamlessly.
 
-I am a web developer and i'm passionate about coding
+🌱 What I'm Working On
 
-* 🌍  I'm based in Benin
-* ✉️  You can contact me at [uzomaebuka11@gmail.com](mailto:uzomaebuka11@gmail.com)
-* 🤝  I'm open to collaborating on Open source project
+I'm continuously learning and refining my skills to stay on top of the latest technologies in the web development ecosystem. Currently, I'm exploring advanced concepts in Next.js and enhancing my design system practices with Tailwind CSS.
+
+💻 My Projects
+You can find some of my notable projects here:
+
+Portfolio Website – Showcasing my skills, experience, and projects.
+Frontend Mentor Challenges – Tackling real-world challenges to sharpen my frontend expertise.
+🌐 Connect With Me
+Feel free to check out my work or connect with me:
+
+Portfolio
+LinkedIn
+
+Thanks for stopping by! Let's build something amazing together 🚀
 
 ### Skills
 
